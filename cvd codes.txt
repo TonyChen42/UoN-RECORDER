@@ -1,0 +1,1491 @@
+medcodeid	term
+94884017	Acute myocardial infarction
+1780501013	Acute non-ST segment elevation myocardial infarction
+219531000000117	MI - acute myocardial infarction
+1780491019	Acute ST segment elevation myocardial infarction
+299714019	Acute myocardial infarction of inferior wall
+4031011	Old myocardial infarction
+299721019	Acute myocardial infarction NOS
+299709018	Anterior myocardial infarction NOS
+455641000006112	Acute anterolateral myocardial infarction
+810811000006116	H/O: myocardial infarct at less than 60
+810821000006112	H/O: myocardial infarct at greater than 60
+116992017	Acute subendocardial infarction
+457531000006110	Acute inferolateral myocardial infarction
+37443015	Heart attack
+299707016	Acute anterior myocardial infarction
+230021000006115	Personal history of myocardial infarction
+2855301000006112	Myocardial infarction
+884151000006119	Myocardial Infarction
+256452010	ECG: myocardial infarction
+299710011	Acute posterior myocardial infarction
+256454011	ECG: old myocardial infarction
+455651000006114	Acute anteroseptal myocardial infarction
+1234005010	Acute inferoposterior infarction
+450322013	Acute non-Q wave infarction
+350376014	Silent myocardial infarction
+299711010	Acute lateral myocardial infarction
+1786197015	Coronary thrombosis
+1738171000006114	History of myocardial infarction
+451369010	H/O: Myocardial infarction in last year
+299718016	Other acute myocardial infarction
+6651391000006114	NSTEMI - Non-ST segment elevation MI
+256455012	ECG: antero-septal infarct.
+1.39300510000e+16	Dressler's syndrome
+458410010	Post infarct angina
+256457016	ECG:posterior/inferior infarct
+219521000000119	Attack - heart
+256460011	ECG: myocardial infarct NOS
+7571581000006113	Acute anterior ST segment elevation myocardial infarction
+299808017	Subsequent myocardial infarction
+208365015	Postoperative myocardial infarction
+4032016	Healed myocardial infarction
+6651221000006117	STEMI - ST elevation myocardial infarction
+1234306015	Acute septal infarction
+7572321000006112	Acute ST segment elevation myocardial infarction of inferior wall
+447324018	Acute Q-wave infarct
+884141000006116	Coronary thrombosis
+299720018	Other acute myocardial infarction NOS
+460681000006116	Acute transmural myocardial infarction of unspecif site
+256458014	ECG: subendocardial infarct
+299719012	Acute atrial infarction
+299712015	True posterior myocardial infarction
+256459018	ECG: lateral infarction
+1786198013	Thrombosis - coronary
+3381601000006117	Acute myocardial infarction of anterior wall
+109915012	Post-myocardial infarction syndrome
+216351000006118	Post infarction pericarditis
+967931000006114	Acute myocardial infarction of posterolateral wall
+299708014	Acute anteroapical infarction
+537751000006115	Cardiac rupture after acute myocardial infarction
+100681000006116	Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction
+299812011	Subsequent myocardial infarction of inferior wall
+7571601000006115	Acute STEMI (ST elevation myocardial infarction) of anterior wall
+6601121000006118	Coronary artery thrombosis
+7572331000006110	Acute STEMI (ST elevation myocardial infarction) of inferior wall
+9868571000006116	Mural thrombus of left ventricle following acute myocardial infarction
+299811016	Subsequent myocardial infarction of anterior wall
+455422014	Postoperative subendocardial myocardial infarction
+5056421000006119	Old inferior myocardial infarction
+1.39300310000e+16	Delayed postmyocardial infarction pericarditis
+813961000006116	Haemopericardium as current complication following acute myocardial infarction
+3641641000006116	Acute myocardial infarction of anterolateral wall
+362461000006119	[X]Acute transmural myocardial infarction of unspecif site
+498031000006112	Atrial septal defect as current complication following acute myocardial infarction
+455423016	Postoperative myocardial infarction, unspecified
+1.21223410000e+16	Acute ST segment elevation myocardial infarction of inferoposterior wall
+1.21223310000e+16	Acute ST segment elevation myocardial infarction of inferolateral wall
+109916013	Dressler's syndrome
+1.40150310000e+16	Myocardial infarction due to demand ischaemia
+5056411000006110	Old anterior myocardial infarction
+9843961000006118	Acute ST segment elevation myocardial infarction of anterolateral wall
+67081000006119	Ventricular septal defect as current complication following acute myocardial infarction
+7510331000006117	History of non-ST segment elevation myocardial infarction
+118831000006118	Subsequent myocardial infarction of unspecified site
+5056941000006119	Post-infarction pericarditis
+6546751000006118	First myocardial infarction
+2855351000006111	Myocardial infarct
+8087751000006116	Acute ST segment elevation myocardial infarction involving left anterior descending coronary artery
+3565871000006113	Acute myocardial infarction of inferolateral wall
+543291000006110	Myocardial infarction with complication
+7574481000006111	Subsequent non-ST segment elevation myocardial infarction
+4586131000006114	ECG: anteroseptal infarction
+9844011000006120	Acute ST segment elevation myocardial infarction of posterior wall
+1.39411410000e+16	Acute ST segment elevation myocardial infarction due to mid left anterior descending coronary artery occlusion
+2515471000006117	Septal infarction by electrocardiogram
+3452181000006112	Acute myocardial infarction of lateral wall
+6043771000006118	Non-Q wave myocardial infarction
+7093091000006111	Recent myocardial infarction
+8011041000006111	Acute myocardial infarction due to right coronary artery occlusion
+1.39352110000e+16	Acute myocardial infarction of inferolateral wall with posterior extension
+3745741000006117	Acute myocardial infarction of inferoposterior wall
+616081000006113	Diabetes mellitus insulin-glucose infusion in acute myocardial infarction
+5935321000006111	Acute Q wave myocardial infarction
+3699921000006110	Acute inferior myocardial infarction
+212071000006114	Postoperative transmural myocardial infarction of inferior wall
+3459561000006119	Acute myocardial infarction of apical-lateral wall
+7574491000006114	Subsequent NSTEMI (non-ST segment elevation myocardial infarction)
+4586111000006115	Anteroseptal infarction on electrocardiogram
+212061000006119	Postoperative transmural myocardial infarction of anterior wall
+299813018	Subsequent myocardial infarction of other sites
+7572341000006117	Acute inferior ST segment elevation myocardial infarction
+3024781000006112	Past myocardial infarction diagnosed on ECG AND/OR other special investigation, but currently presenting no symptoms
+300882013	[X]Subsequent myocardial infarction of unspecified site
+3576371000006117	Postmyocardial infarction syndrome
+5056501000006113	Post-infarction ventricular septal defect
+7084801000006112	Mixed myocardial ischaemia and infarction
+9843981000006112	Acute ST segment elevation myocardial infarction of lateral wall
+158601000006116	Rupture of cardiac wall without haemopericardium as current complication following acute myocardial infarction
+1.39410910000e+16	Acute ST segment elevation myocardial infarction due to proximal left anterior descending coronary artery occlusion
+9843991000006114	Acute ST segment elevation myocardial infarction of anteroseptal wall
+9844051000006118	Acute ST segment elevation myocardial infarction due to right coronary artery occlusion
+408571000006116	[X]Other current complicatns following acute myocard infarct
+5056431000006116	Old lateral myocardial infarction
+3551171000006114	Acute myocardial infarction of high lateral wall
+212091000006110	Postoperative transmural myocardial infarction unspec site
+7571611000006117	Acute ST segment elevation myocardial infarction of anterior wall involving right ventricle
+2855341000006114	MI - Myocardial infarction
+7572221000006117	Subsequent ST segment elevation myocardial infarction of inferior wall
+8087551000006113	History of acute ST segment elevation myocardial infarction
+7848521000006117	Pulmonary embolism as current complication following acute myocardial infarction
+3526080018	Mural thrombus of right ventricle following acute myocardial infarction
+1.39412110000e+16	Acute ST segment elevation myocardial infarction due to distal left anterior descending coronary artery occlusion
+1.39614610000e+16	Acute ST segment elevation myocardial infarction due to occlusion of posterior lateral branch of right coronary artery
+5056311000006117	Acute Q wave infarction - inferior
+7574041000006111	Mitral valve regurgitation due to acute myocardial infarction
+8032161000006112	Coronary arteriosclerosis in patient with history of previous myocardial infarction
+3784911000006111	Acute myocardial infarction of septum
+159001000006119	Rupture of papillary muscle as current complication following acute myocardial infarction
+5056441000006114	Old posterior myocardial infarction
+9843951000006116	Acute ST segment elevation myocardial infarction of posterolateral wall
+1.39452110000e+16	Acute ST segment elevation myocardial infarction due to occlusion of anterior descending branch of left coronary artery
+1.39459810000e+16	Acute ST segment elevation myocardial infarction due to occlusion of septal branch of anterior descending branch of left coronary artery
+1.39614510000e+16	Acute STEMI (ST elevation myocardial infarction) due to PDA (posterior descending artery) branch of RCA (right coronary artery) occlusion
+300881018	[X]Subsequent myocardial infarction of other sites
+4586221000006118	Lateral infarction on electrocardiogram
+3655161000006110	Pericarditis secondary to acute myocardial infarction
+6914971000006118	Myocardial infarction in recovery phase
+7572861000006110	Acute myocardial infarction of anterior wall involving right ventricle
+1.40572210000e+16	Rupture of ventricle due to acute myocardial infarction
+1.39351610000e+16	Acute myocardial infarction of right ventricle
+1.39613410000e+16	Acute ST segment elevation myocardial infarction due to occlusion of distal portion of right coronary artery
+1.39614410000e+16	Acute ST segment elevation myocardial infarction due to occlusion of posterior descending branch of right coronary artery
+7572251000006114	Subsequent ST segment elevation myocardial infarction of anterior wall
+7572281000006118	Subsequent ST segment elevation myocardial infarction
+7572301000006119	Acute myocardial infarction during procedure
+7572881000006117	Acute ST segment elevation myocardial infarction of inferior wall involving right ventricle
+7662871000006115	Inducible ischaemia manifest on stress test post myocardial infarction
+9844071000006112	Acute ST segment elevation myocardial infarction of septum
+1.39411610000e+16	Acute STEMI (ST elevation myocardial infarction) due to mid LAD (left anterior descending) coronary artery occlusion
+1.39614310000e+16	Acute STEMI (ST elevation myocardial infarction) due to AM (acute marginal) branch of RCA (right coronary artery) occlusion
+3427201000006111	AMI - Acute myocardial infarction
+158611000006118	Rupture of chordae tendinae as current complication following acute myocardial infarction
+212081000006112	Postoperative transmural myocardial infarction other sites
+5056271000006117	Acute Q wave infarction - anteroseptal
+8004261000006118	Acute myocardial infarction due to left coronary artery occlusion
+7572291000006115	Subsequent STEMI (ST elevation myocardial infarction)
+7574081000006117	Mitral valve regurgitation due to acute myocardial infarction without papillary muscle and chordal rupture
+7848501000006110	Ventricular aneurysm as current complication following acute myocardial infarction
+7848541000006112	Arrhythmia as current complication following acute myocardial infarction
+1.39613810000e+16	Acute STEMI (ST elevation myocardial infarction) due to mid RCA (right coronary artery) occlusion
+5056951000006117	Pericarditis following myocardial infarction
+5056321000006113	Acute non-Q wave infarction - inferior
+5056331000006111	Acute Q wave infarction - inferolateral
+5056341000006118	Acute non-Q wave infarction - inferolateral
+5056461000006113	MI - Silent myocardial infarction
+6601131000006115	CT - Coronary thrombosis
+1.39352010000e+16	Acute apical myocardial infarction of heart
+1.39613510000e+16	Acute STEMI (ST elevation myocardial infarction) due to distal RCA (right coronary artery) occlusion
+1.39614210000e+16	Acute ST segment elevation myocardial infarction due to occlusion of marginal branch of right coronary artery
+6619191000006115	Past history of myocardial infarction
+3343471000006116	Acute anteroapical myocardial infarction
+4776171000006116	Reinfarction of myocardium
+5056301000006115	Acute non-Q wave infarction - anterolateral
+2503001000006118	Acute myocardial infarction of basal-lateral wall
+6361051000006117	TIMI grade 2: partial perfusion
+7107851000006112	Anterior myocardial infarction on electrocardiogram
+7572261000006111	Subsequent STEMI (ST elevation myocardial infarction) of anterior wall
+7571621000006113	Acute anterior ST segment elevation myocardial infarction with right ventricular involvement
+9844021000006110	Acute ST segment elevation myocardial infarction due to left coronary artery occlusion
+3527838013	Myocardial infarction clinical management plan
+1.39411110000e+16	Acute STEMI (ST elevation myocardial infarction) due to proximal LAD (left anterior descending) coronary artery occlusion
+1.39412310000e+16	Acute STEMI (ST elevation myocardial infarction) due to distal LAD (left anterior descending) coronary artery occlusion
+1.39477210000e+16	Acute ST segment elevation myocardial infarction due to occlusion of intermediate artery
+1.39613710000e+16	Acute ST segment elevation myocardial infarction due to occlusion of mid portion of right coronary artery
+1.39614710000e+16	Acute STEMI (ST elevation myocardial infarction) due to PL (posterolateral) branch of RCA (right coronary artery) occlusion
+4540461000006118	History of myocardial infarct at age less than sixty
+4540481000006111	History of myocardial infarct at age greater than sixty
+3576391000006116	Postmyocardial infarction pericarditis
+2526351000006116	Healed coronary
+6619201000006117	Previous myocardial infarction
+4586031000006113	Electrocardiogram finding of infarction
+4586041000006115	Electrocardiographic myocardial infarction
+4586051000006118	EKG: myocardial infarction
+4775881000006117	True posterior wall infarction
+3645351000006114	Acute nontransmural infarction
+3699911000006119	Acute myocardial infarction of diaphragmatic wall
+4775891000006119	Acute myocardial infarction of atrium
+3784921000006115	Acute myocardial infarction of septum alone
+6348651000006112	Myocardial infarction with complication
+1.22207510000e+16	Hemopericardium due to and following acute myocardial infarction
+4776221000006110	Hemopericardium as current complication following acute myocardial infarction
+1.22207610000e+16	Haemopericardium due to and following acute myocardial infarction
+1.22207710000e+16	Atrial septal defect due to and following acute myocardial infarction
+4776251000006118	Rupture of cardiac wall without hemopericardium as current complication following acute myocardial infarction
+1.22207810000e+16	Rupture of chordae tendinae due to and following acute myocardial infarction
+1.22207910000e+16	Thrombosis of atrium, auricular appendage, and ventricle due to and following acute myocardial infarction
+5974481000006116	History of myocardial infarction in last year
+4586151000006119	ECG: antero-septal infarct
+4586141000006116	Electrocardiogram: anteroseptal infarction
+4586181000006110	Electrocardiographic posterior/inferior infarct
+4586171000006112	EKG:posterior/inferior infarct
+4586211000006114	Electrocardiographic subendocardial infarct
+4586201000006111	EKG: subendocardial infarct
+4586241000006113	Electrocardiogram: lateral infarction
+6056601000006112	DIGAMI - diabetes mellitus insulin-glucose infusion in acute myocardial infarction
+5056521000006115	Defect of ventricular septum following myocardial infarction
+4586101000006118	Electrocardiographic old myocardial infarction
+4586091000006112	EKG: old myocardial infarction
+2855311000006110	Infarction of heart
+2855321000006119	Cardiac infarction
+5056281000006119	Acute non-Q wave infarction - anteroseptal
+5056291000006116	Acute Q wave infarction - anterolateral
+5056351000006116	Acute Q wave infarction - lateral
+5056361000006119	Acute non-Q wave infarction - lateral
+5056371000006114	Acute widespread myocardial infarction
+5056381000006112	Acute Q wave infarction - widespread
+5056391000006110	Acute non-Q wave infarction - widespread
+1.22213010000e+16	Cardiac rupture due to and following acute myocardial infarction
+5056681000006117	Post-infarction mitral papillary muscle rupture
+2515481000006119	Septal infarction by EKG
+2616631000006118	Inferior myocardial infarction on ECG
+2616641000006111	Inferior myocardial infarction on ECG (electrocardiogram)
+2616621000006116	Inferior infarction by EKG
+2616611000006112	Inferior myocardial infarction on electrocardiogram
+2987461000006113	Acute myocardial infarction with rupture of ventricle
+3024791000006110	Past myocardial infarction diagnosed on electrocardiogram AND/OR other special investigation, but currently presenting no symptoms
+3202711000006110	Anterolateral infarction by EKG
+3202701000006112	Anterolateral infarction by electrocardiogram
+3654691000006112	Acute myocardial infarction of posterobasal wall
+1.17783110000e+16	Pericarditis due to acute myocardial infarction
+1.24834010000e+16	Certain current complications following acute myocardial infarction
+5723601000006115	Myocardiectomy of infarcted area
+5723591000006111	Infarct myocardiectomy
+6361071000006110	Thrombolysis in Myocardial Infarction grade 2: partial perfusion
+6361061000006115	Thrombolysis in Myocardial Infarction (TIMI) grade 2: partial perfusion
+6361091000006111	Thrombolysis in Myocardial Infarction (TIMI) grade 3: complete perfusion
+6361101000006117	Thrombolysis in Myocardial Infarction grade 3: complete perfusion
+6361081000006113	TIMI grade 3: complete perfusion
+6361121000006110	Thrombolysis in Myocardial Infarction (TIMI) grade 1: penetration without perfusion
+6361131000006113	Thrombolysis in Myocardial Infarction grade 1: penetration without perfusion
+6361111000006119	TIMI grade 1: penetration without perfusion
+6361151000006118	Thrombolysis in Myocardial Infarction grade 0: no perfusion
+6361141000006115	TIMI grade 0: no perfusion
+3703011000006111	Posterior infarction by EKG
+3703031000006117	Posterior myocardial infarction on ECG (electrocardiogram)
+3703001000006113	Posterior myocardial infarction on electrocardiogram
+3703021000006115	Posterior myocardial infarction on ECG
+7102561000006110	New myocardial infarction compared to prior study
+7107881000006116	Anterior myocardial infarction on ECG (electrocardiogram)
+7107861000006114	Anterior myocardial infarction on electrocardiogram (EKG)
+7107871000006119	Anterior myocardial infarction on ECG
+7084811000006110	Mixed myocardial ischemia and infarction
+8087771000006114	Acute ST segment elevation myocardial infarction involving left main coronary artery
+7965631000006113	History of MI less than 8 weeks
+7965621000006110	History of myocardial infarction in last eight weeks
+7572271000006116	Subsequent anterior ST segment elevation myocardial infarction
+7571591000006111	Acute ST segment elevation myocardial infarction of anterior wall
+7571631000006111	Acute STEMI (ST elevation myocardial infarction) of anterior wall with right ventricular involvement
+7572311000006116	Acute periprocedural myocardial infarction
+7572231000006119	Subsequent inferior ST segment elevation myocardial infarction
+7572241000006112	Subsequent STEMI (ST elevation myocardial infarction) of inferior wall
+7572841000006111	Acute myocardial infarction of inferior wall involving right ventricle
+7572851000006113	Acute myocardial infarction of inferior wall with right ventricular involvement
+7572871000006115	Acute myocardial infarction of anterior wall with right ventricular involvement
+7572891000006119	Acute inferior ST segment elevation myocardial infarction with right ventricular involvement
+7572901000006115	Acute STEMI (ST elevation myocardial infarction) of inferior wall with right ventricular involvement
+7574101000006113	Mitral valve regurgitation due to acute myocardial infarction with papillary muscle and chordal rupture
+1.23590910000e+16	Mitral valve regurgitation due to and following acute myocardial infarction
+7574051000006113	Mitral regurgitation due to acute myocardial infarction
+9844081000006114	Acute ST segment elevation myocardial infarction of posterobasal wall
+7662881000006117	Inducible ischemia manifest on stress test post myocardial infarction
+9844061000006116	Acute ST segment elevation MI (myocardial infarction) due to right coronary artery occlusion
+9844031000006112	Acute ST segment elevation MI (myocardial infarction) due to left coronary artery occlusion
+7807021000006119	Myocardial infarction clinical management plan
+1.23689810000e+16	Ventricular aneurysm due to and following acute myocardial infarction
+7848511000006113	Ventricular aneurysm following acute myocardial infarction
+1.23689910000e+16	Pulmonary embolism due to and following acute myocardial infarction
+7848531000006119	Pulmonary embolism following acute myocardial infarction
+7848551000006114	Arrhythmia following acute myocardial infarction
+1.23690010000e+16	Arrhythmia due to and following acute myocardial infarction
+7848561000006111	Cardiogenic shock unrelated to mechanical complications as current complication following acute myocardial infarction
+7848571000006116	Cardiogenic shock following acute myocardial infarction
+405339016	Cerebrovascular accident
+605501000006117	CVA unspecified
+605491000006113	CVA - Cerebrovascular accident
+395780010	Cerebral infarction
+481028017	Subarachnoid haemorrhage
+809421000006116	History of cerebrovascular accident
+605461000006117	CVA - cerebrovascular accident due to cerebral artery occlusion
+1222398015	Cerebral arterial occlusion
+5010981000006119	Stroke
+122401000006115	Stroke unspecified
+744901000006114	Intracerebral haemorrhage (ICH)
+300370010	Left sided CVA
+300371014	Right sided CVA
+411518010	H/O: CVA
+605471000006112	Cerebral hemorrhage
+158118014	Cerebellar infarction
+2476091017	H/O: stroke
+451133011	Left sided cerebral infarction
+451134017	Right sided cerebral infarction
+122371000006118	Cerebral haemorrhage
+122361000006113	Stroke due to cerebral arterial occlusion
+118689010	Cerebral thrombosis
+299342019	Lacunar infarction
+884521000006115	Stroke/CVA - undefined
+300298011	Intracranial haemorrhage
+1227591017	[V]Personal history of stroke
+218511000000117	Infarction - cerebral
+502878012	Cerebellar haemorrhage
+2474651019	Infarction of basal ganglia
+884531000006117	Stroke
+300366019	Cerebellar stroke syndrome
+524511000006116	Brainstem stroke syndrome
+4778181000006119	Left sided cerebral hemisphere cerebrovascular accident
+6990981000006114	Ischaemic stroke
+300362017	Middle cerebral artery syndrome
+4778201000006118	Right sided cerebral hemisphere cerebrovascular accident
+125470015	Cerebral embolism
+543141000006110	Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+300277011	Intracerebral haemorrhage, intraventricular
+524541000006117	Brain stem infarction
+300321011	Cerebral infarction due to thrombosis of cerebral arteries
+5011091000006110	Partial anterior cerebral circulation infarction
+300287010	Intracerebral haemorrhage NOS
+503791000006114	Basal ganglia haemorrhage
+300257016	Subarachnoid haemorrhage NOS
+808111000006110	H/O subarachnoid haemorrhage
+300364016	Posterior cerebral artery syndrome
+5011131000006112	Posterior cerebral circulation infarction
+300312010	Cerebral infarct due to thrombosis of precerebral arteries
+501622012	Perinatal intraventricular haemorrhage
+300943012	Cerebral artery occlusion
+300941014	[X]Other cerebral infarction
+5582311000006110	Occipital cerebral infarction
+503469016	Pontine haemorrhage
+106392017	Basilar artery syndrome
+300363010	Anterior cerebral artery syndrome
+123511000006114	Subarachnoid haemorrhage from middle cerebral artery
+402929011	Subarachnoid haemorrhage following injury without open intracranial wound
+345655015	Pure motor lacunar syndrome
+300309012	Vertebral artery occlusion
+9912271000006112	Cerebellar stroke
+8044481000006118	Ischaemic stroke without coma
+300322016	Cerebral infarction due to embolism of cerebral arteries
+5011051000006116	Total anterior cerebral circulation infarction
+300242011	Ruptured berry aneurysm
+300290016	Other and unspecified intracranial haemorrhage
+300939013	Cerebral haemorrhage
+542261000006114	Cerebral infarction due to occlusion of precerebral artery
+123481000006118	Subarachnoid haemorrhage from anterior communicating artery
+496232015	Internal capsule haemorrhage
+130375018	Lateral medullary syndrome
+451371010	H/O: Stroke in last year
+300313017	Cerebral infarction due to embolism of precerebral arteries
+748941000006115	Left sided intracerebral haemorrhage, unspecified
+1227592012	[V]Personal history of cerebrovascular accident (CVA)
+345675012	Lobar cerebral haemorrhage
+884421000006119	Cerebral haemorrhage
+660111000006117	Nontraumatic extradural haemorrhage
+163261000006119	Right sided intracerebral haemorrhage, unspecified
+300303013	Basilar artery occlusion
+7054171000006115	Acute lacunar infarction
+345650013	Brainstem infarction NOS
+5011471000006116	Posterior circulation stroke of uncertain pathology
+542251000006112	Cerebral infarction due to cerebral venous thrombosis, non-pyogenic
+6348301000006119	Embolic stroke
+5011411000006113	Thalamic haemorrhage
+495394013	Cortical haemorrhage
+505324014	Traumatic cerebral haemorrhage
+1.22231010000e+16	Intracerebral haemorrhage
+345658018	Pure sensory lacunar syndrome
+123521000006118	Subarachnoid haemorrhage from posterior communicating artery
+5011041000006118	Anterior cerebral circulation infarction
+123441000006112	Subarachnoid haemorrh from intracranial artery, unspecif
+300395011	Occlusion and stenosis of middle cerebral artery
+5967391000006111	Multiple lacunar infarcts
+744921000006116	Intracerebral haemorrhage in hemisphere, unspecified
+1212072018	Occlusive stroke
+391042012	Subarachnoid haemorrhage following injury
+300956017	[X]Intracerebral haemorrhage in hemisphere, unspecified
+5011291000006119	Haemorrhagic cerebral infarction
+123491000006115	Subarachnoid haemorrhage from basilar artery
+5011461000006111	Anterior circulation stroke of uncertain pathology
+370701000006118	[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+5583061000006119	Subarachnoid haemorrhage from anterior communicating artery aneurysm
+542831000006116	Cerebral embolus
+57341000006119	Wallenberg's syndrome
+300936018	[X]Other subarachnoid haemorrhage
+3818181000006114	Lacunar infarct
+5518041000006112	Spontaneous subarachnoid haemorrhage
+320853015	Other cerebral haemorrhage following injury
+3508964014	Cerebrovascular accident due to thrombus of left middle cerebral artery
+6846141000006118	Cardioembolic stroke
+370661000006114	[X]Cereb infarct due unsp occlus/stenos precerebr arteries
+5583021000006113	Subarachnoid haemorrhage from middle cerebral artery aneurysm
+884451000006111	Cerebral haemorrhage NOS
+4777881000006112	Intracerebral haemorrhage, multiple localised
+5011161000006115	Lacunar stroke
+5583081000006112	Subarachnoid haemorrhage from posterior communicating artery aneurysm
+5011191000006111	Pure motor lacunar infarction
+428181000006115	Subarachnoid hemorrhage
+746571000006116	Intracerebral haemorrhage, multiple localized
+300399017	Occlusion and stenosis of cerebellar arteries
+3508961018	Cerebrovascular accident due to thrombus of right middle cerebral artery
+5011451000006114	Stroke of uncertain pathology
+605481000006110	CVA - cerebrovascular accident in the puerperium
+1.39099010000e+16	Cerebral ischaemic stroke co-occurrent with subarachnoid haemorrhage
+3505637014	Occlusion of left middle cerebral artery
+3509794017	Cerebrovascular accident due to occlusion of left middle cerebral artery
+300276019	External capsule haemorrhage
+300398013	Occlusion and stenosis of posterior cerebral artery
+7071901000006111	Thalamic infarction
+1.27619010000e+16	Subarachnoid hemorrhage
+3508955016	Cerebrovascular accident due to thrombus of basilar artery
+7855631000006111	Cerebral ischaemic stroke due to small artery occlusion
+6348291000006115	Thrombotic stroke
+5011141000006119	Posterior cerebral circulation stroke
+123381000006110	Subarachnoid haemorrhage following injury with open intracranial wound, with no loss of consciousness
+5011211000006112	Pure sensory lacunar infarction
+1.40142510000e+16	Cerebrovascular accident due to occlusion of bilateral pontine arteries
+5011111000006118	Partial anterior cerebral circulation stroke
+345639010	Infarction - precerebral
+3505639012	Occlusion of right middle cerebral artery
+6990991000006112	Ischemic stroke
+3509810017	Cerebrovascular accident due to occlusion of right middle cerebral artery
+4540691000006112	History of subarachnoid haemorrhage
+884431000006116	Extradural haemorrhage
+1.22231210000e+16	ICH - intracerebral haemorrhage
+300935019	[X]Subarachnoid haemorrhage from other intracranial arteries
+7067291000006113	Infarction of medulla oblongata
+2622631000006114	Intrapontine haemorrhage
+4056931000006116	Brain stem haemorrhage
+5011121000006114	PACS - Partial anterior cerebral circulation stroke
+1.39098810000e+16	Cerebral ischaemic stroke due to global hypoperfusion with watershed infarct
+884481000006115	Vertebral artery occluded
+7378271000006116	Intracranial haemorrhage following injury
+3507383012	Spontaneous haemorrhage of cortical intracerebral hemisphere
+300253017	Subarachnoid haemorrhage from vertebral artery
+300396012	Occlusion and stenosis of anterior cerebral artery
+7598981000006119	Cerebral infarction due to embolism of middle cerebral artery
+3509790014	Cerebrovascular accident due to occlusion of right posterior cerebral artery
+300244012	Subarachnoid haemorrhage from carotid siphon and bifurcation
+1.37186210000e+16	History of cerebrovascular accident due to ischaemia
+1.39098610000e+16	Cerebral ischaemic stroke due to dissection of artery
+35801000006116	Other cerebral h'ge after injury no open intracranial wound
+5011071000006114	Total anterior cerebral circulation stroke
+5589641000006112	Intracerebellar and posterior fossa haemorrhage
+884461000006113	Basilar artery occluded
+7515281000006115	Multiple lacunar infarcts
+2871271000006114	Intraventricular haemorrhage
+5011241000006111	Lacunar ataxic hemiparesis
+5011351000006119	Posterior cerebral circulation haemorrhagic infarction
+320735017	Subarachnoid haemorrhage following injury with open intracranial wound
+483988011	Bulbar haemorrhage
+267321000006114	Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction
+267311000006118	Occlusion and stenosis of multiple and bilateral cerebral arteries
+7378421000006118	Traumatic intracerebral haemorrhage
+1.22231110000e+16	Intracerebral hemorrhage
+2832651000006111	Subcortical haemorrhage
+3777981000006119	Posterior inferior cerebellar artery syndrome
+480952017	Perinatal subarachnoid haemorrhage
+5011081000006112	TACS - Total anterior cerebral circulation stroke
+7071911000006114	Thalamic stroke
+5011581000006119	Subarachnoid haemorrhage due to ruptured aneurysm
+3778021000006116	LMS - Lateral medullary syndrome
+5597281000006110	Ruptured cerebral arteriovenous malformation
+426231000006114	[X]Sequelae of other nontraumatic intracranial haemorrhage
+5011101000006116	PACI - Partial anterior cerebral circulation infarction
+884501000006113	Cerebral A. occlusion NOS
+320897016	Other cerebral haemorrhage following injury NOS
+316519019	Subarachnoid haemorrhage due to birth injury
+3508962013	Stroke due to thrombus of right middle cerebral artery
+5011171000006110	LACI - Lacunar infarction
+5011431000006119	Lacunar haemorrhage
+2841141000006111	SAH - Subarachnoid haemorrhage
+3508965010	Stroke due to thrombus of left middle cerebral artery
+9875951000006116	Cerebrovascular accident due to right carotid artery stenosis
+3509799010	Cerebrovascular accident due to occlusion of left posterior cerebral artery
+1.37171710000e+16	Cerebrovascular accident due to stenosis of bilateral carotid arteries
+3505651014	Occlusion of left posterior cerebral artery
+5597521000006114	Ruptured aneurysm of anterior communicating artery
+3505653012	Occlusion of right posterior cerebral artery
+3441831000006111	Progressing stroke
+5011061000006119	TACI - Total anterior cerebral circulation infarction
+8031281000006118	Cerebral infarction due to stenosis of carotid artery
+9875961000006116	Cerebrovascular accident due to left carotid artery stenosis
+3510963013	Lacunar ataxic hemiparesis of left dominant side
+7599001000006116	Cerebral infarction due to thrombosis of middle cerebral artery
+3510961010	Lacunar ataxic hemiparesis of right dominant side
+3508958019	Cerebrovascular accident due to thrombus of right carotid artery
+5011231000006118	Pure sensorimotor lacunar infarction
+5058411000006114	Ruptured cerebral aneurysm
+5518071000006116	SAH - Spontaneous subarachnoid haemorrhage
+5011331000006114	Anterior cerebral circulation haemorrhagic infarction
+2871261000006119	Intraventricular hemorrhage
+3508952018	Cerebrovascular accident due to thrombus of left carotid artery
+2622651000006119	Pontine hemorrhage
+3509792018	Cerebrovascular accident due to occlusion of left carotid artery
+7855711000006113	Stroke co-occurrent with migraine
+3636133016	Cerebrovascular accident due to occlusion of right middle cerebral artery by embolus
+5597491000006112	Ruptured aneurysm of middle cerebral artery
+8045741000006119	Nontraumatic intraparenchymal cerebral haemorrhage
+3533574016	Spontaneous intracranial haemorrhage
+3636136012	Cerebrovascular accident due to occlusion of left middle cerebral artery by embolus
+4777861000006119	Intracerebral haemorrhage with intraventricular haemorrhage
+6837051000006119	Basal ganglion stroke
+1.40142810000e+16	Cerebrovascular accident due to stenosis of bilateral vertebral arteries
+411416011	Stroke in the puerperium
+4777811000006117	Basal ganglia hemorrhage
+1.22231310000e+16	ICH - intracerebral hemorrhage
+307879017	Puerperal cerebrovascular disorder unspecified
+3509817019	Left hemispheric cerebellar artery embolism with stroke
+7703601000006113	Post stroke pain
+9875641000006112	Cerebrovascular accident due to right carotid artery occlusion
+1.37186010000e+16	History of embolic cerebrovascular accident
+123411000006113	Subarachnoid h'ge inj no open intracran wnd+no loss consc
+2520541000006112	Intracranial hemorrhage
+2871241000006118	Ventricular haemorrhage
+3636969013	Occlusion of right middle cerebral artery by embolus
+5011421000006117	Thalamic hemorrhage
+5597571000006110	Ruptured aneurysm of posterior communicating artery
+7378401000006111	Traumatic intracerebral hemorrhage
+123391000006113	Subarachnoid h'ge inj no open intracran wnd+<1hr loss consc
+2841151000006113	SAH - Subarachnoid hemorrhage
+307880019	Puerperal cerebrovascular disorder - delivered
+3508956015	Stroke due to basilar artery thrombus
+3636143018	Cerebrovascular accident due to occlusion of left cerebellar artery by embolus
+5583101000006116	Subarachnoid haemorrhage from basilar artery aneurysm
+5649201000006113	Extension of cerebrovascular accident
+7572391000006114	Perimesencephalic subarachnoid hemorrhage
+30981000006112	Oth cerebral h'ge inj no open intracran wnd+unspec consc
+3509781019	Cerebrovascular accident due to occlusion of right cerebellar artery
+3533575015	Spontaneous intracranial hemorrhage
+3533578018	Nontraumatic intracranial haemorrhage
+4056951000006111	Brainstem haemorrhage
+4057031000006117	Brain stem infarct
+6837061000006117	Basal ganglion infarct
+7572381000006111	Perimesencephalic subarachnoid haemorrhage
+123431000006119	Subarachnoid h'ge inj no open intracran wound + unspec consc
+2832661000006113	Subcortical hemorrhage
+307884011	Puerperal cerebrovascular disorder NOS
+3509769018	Cerebrovascular accident due to occlusion of left cerebellar artery
+35791000006117	Other cerebral h'ge after injury + open intracranial wound
+3636141016	Cerebrovascular accident due to occlusion of right cerebellar artery by embolus
+3719851000006116	Cerebellar hemorrhage
+5582971000006117	Subarachnoid haemorrhage from multiple aneurysms
+5582991000006116	Subarachnoid haemorrhage from anterior cerebral artery aneurysm
+5597291000006113	AVM - Ruptured cerebral arteriovenous malformation
+7991141000006110	Occlusion of cerebral artery with stroke
+1.37186410000e+16	History of ischaemic stroke
+1.39098710000e+16	Cerebral ischaemic stroke due to aortic arch embolism
+123311000006115	Subarach h'ge inj no open intracran wnd + concussion unspec
+123351000006119	Subarachnoid h'ge inj + open intracran wnd+concussion unspec
+200591000006119	Puerperal cerebrovascular disorder - delivered with postnatal complication
+3509777019	Cerebrovascular accident due to occlusion of left pontine artery
+3510959018	Lacunar ataxic hemiparesis of left nondominant side
+3636970014	Occlusion of left middle cerebral artery by embolus
+4056941000006114	Brain stem hemorrhage
+4057041000006110	Brain stem stroke
+4057051000006112	Infarction of brain stem
+5011181000006113	LI - Lacunar infarction
+5583041000006118	Subarachnoid haemorrhage from posterior cerebral artery aneurysm
+5583121000006114	Subarachnoid haemorrhage from posterior inferior cerebellar artery aneurysm
+5597331000006118	Angiogram-negative subarachnoid haemorrhage
+5597481000006114	Ruptured aneurysm of anterior cerebral artery
+5597651000006116	Ruptured internal carotid-posterior communicating artery zone aneurysm
+5974521000006116	History of stroke in last year
+7571431000006113	Deep hemispheric haemorrhage
+7951271000006116	Haemorrhage of medulla oblongata
+8089851000006116	Nontraumatic intracerebral haemorrhage
+1.39098910000e+16	Cerebral ischaemic stroke due to hypercoagulable state
+123331000006114	Subarach h'ge inj no open intracran wnd+LOC unspec duration
+123361000006117	Subarachnoid h'ge inj + open intracran wound + unspec consc
+123421000006117	Subarachnoid h'ge inj no open intracran wound + 1-24hr LOC
+200621000006117	Puerperal cerebrovascular disorder with antenatal complication
+200631000006119	Puerperal cerebrovascular disorder with postnatal complication
+2832671000006118	Subcortical cerebral haemorrhage
+2841161000006110	Subarachnoid intracranial haemorrhage
+2841171000006115	Subarachnoid intracranial hemorrhage
+3346051000006110	Internal capsule hemorrhage
+3510551014	History of hemorrhagic stroke with residual deficit
+3636139017	Cerebrovascular accident due to occlusion of left posterior cerebral artery by embolus
+3687811000006118	Cerebral hemisphere haemorrhage
+3719861000006119	Haemorrhagic cerebellum
+3728451000006116	Cerebral arterial embolism
+4777871000006114	Intracerebral hemorrhage with intraventricular hemorrhage
+4777981000006117	Occlusion of basilar artery
+5011301000006118	Hemorrhagic cerebral infarction
+5011371000006112	Massive supratentorial cerebral haemorrhage
+5011571000006117	Subarachnoid hemorrhage due to ruptured arteriovenous malformation
+5518061000006111	Spontaneous subarachnoid hemorrhage
+5518101000006114	Nontraumatic subarachnoid intracranial hemorrhage
+5589651000006114	Intracerebellar and posterior fossa hemorrhage
+5597601000006115	Ruptured aneurysm of basilar artery
+7703591000006117	Pain following cerebrovascular accident
+7855641000006118	Cerebral ischemic stroke due to small artery occlusion
+7863741000006115	Cerebral ischemic stroke due to stenosis of extracranial large artery
+8046951000006114	Cerebral infarction due to carotid artery occlusion
+8090471000006119	Cerebral infarction due to stenosis of precerebral artery
+8211961000006117	History of cerebellar stroke
+989201000006117	Cerebral haemorrhage
+989211000006119	Cerebral haemorrhage NOS
+1.37186110000e+16	History of embolic stroke
+1.18439310000e+16	Cerebrovascular accident due to stenosis of right carotid artery
+1.18439410000e+16	Cerebrovascular accident due to stenosis of left carotid artery
+1.18650510000e+16	Cerebrovascular accident due to occlusion of right carotid artery
+1.18785110000e+16	Cerebrovascular accident due to occlusion of cerebral artery
+1.19035710000e+16	Stroke due to intracerebral haemorrhage
+1.19195710000e+16	[X]Other intracerebral haemorrhage
+1.19237910000e+16	Subarachnoid hemorrhage following injury without open intracranial wound
+1.22229710000e+16	Occlusion of precerebral artery
+123281000006117	Subarachnoid haemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level
+123291000006119	Subarachnoid haemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level
+123301000006118	Subarach h'ge inj + open intracran wnd+LOC unspec duration
+123321000006111	Subarach h'ge inj no open intracran wnd+>24hrs LOC-restored
+123341000006116	Subarachnoid haemorrhage following injury with open intracranial wound AND moderate loss of consciousness (1-24 hours)
+123371000006112	Subarachnoid haemorrhage following injury with open intracranial wound AND brief loss of consciousness (less than one hour)
+123401000006110	Subarachnoid h'ge inj no open intracran wnd+>24 LOC+recovery
+1.27224810000e+16	Right sided intracerebral haemorrhage, unspecified
+1.27586110000e+16	Right sided intracerebral hemorrhage, unspecified
+1.27620210000e+16	Cerebral hemorrhage
+1.30311910000e+16	Cerebral hemorrhage
+2622641000006116	Intrapontine hemorrhage
+2818821000006111	Occlusion of cerebral artery
+2832681000006115	Subcortical cerebral hemorrhage
+2836981000006110	Perinatal subarachnoid hemorrhage
+2836991000006113	Subarachnoid hemorrhage from any perinatal cause
+2837001000006117	Subarachnoid haemorrhage from any perinatal cause
+2837011000006119	Perinatal intracranial subarachnoid haemorrhage
+2837021000006110	Perinatal intracranial subarachnoid hemorrhage
+2837471000006118	Meningeal haemorrhage
+2837481000006115	Meningeal hemorrhage
+2871251000006116	Ventricular hemorrhage
+2950231000006111	Subarachnoid haemorrhage following injury without open intracranial wound
+2962821000006118	Occlusion of precerebral artery
+3027211000006117	Haemorrhage due to ruptured congenital cerebral aneurysm
+3027221000006113	Hemorrhage due to ruptured congenital cerebral aneurysm
+3027231000006111	Hemorrhage due to ruptured berry aneurysm
+3027241000006118	Haemorrhage due to ruptured berry aneurysm
+3184041000006115	Cerebromeningeal haemorrhage
+3184051000006118	Cerebromeningeal hemorrhage
+3203191000006110	Vertebral artery obstruction
+3299621000006119	Cortical hemorrhage
+3507311016	Occlusion of bilateral vertebral arteries
+3507312011	Occlusion of both vertebral arteries
+3507382019	Spontaneous hemorrhage of cortical intracerebral hemisphere
+3507384018	Nontraumatic hemispheric cortical intracerebral hemorrhage
+3507385017	Nontraumatic hemispheric cortical intracerebral haemorrhage
+3507425016	Cerebrovascular accident due to stenosis of right vertebral artery
+3507427012	Cerebrovascular accident due to stenosis of left vertebral artery
+3508953011	Stroke due to thrombus of left carotid artery
+3508959010	Stroke due to thrombus of right carotid artery
+3509775010	Cerebrovascular accident due to right vertebral artery occlusion
+3509779016	Cerebrovascular accident due to occlusion of left vertebral artery
+3509783016	Cerebrovascular accident due to occlusion of right pontine artery
+3510549010	History of hemorrhagic cerebrovascular accident with residual deficit
+3510550010	History of haemorrhagic cerebrovascular accident with residual deficit
+3510552019	History of haemorrhagic stroke with residual deficit
+3510965018	Lacunar ataxic hemiparesis of right nondominant side
+3511249016	Nontraumatic haemorrhage of subarachnoid space from left posterior communicating artery
+3511250016	Nontraumatic hemorrhage of subarachnoid space from left posterior communicating artery
+3511251017	Spontaneous haemorrhage of subarachnoid space from left posterior communicating artery
+3511252012	Spontaneous hemorrhage of subarachnoid space from left posterior communicating artery
+3511254013	Nontraumatic haemorrhage of subarachnoid space from right posterior communicating artery
+3511255014	Spontaneous hemorrhage of subarachnoid space from right posterior communicating artery
+3511256010	Nontraumatic hemorrhage of subarachnoid space from right posterior communicating artery
+3511257018	Spontaneous haemorrhage of subarachnoid space from right posterior communicating artery
+3511277013	Spontaneous hemorrhage of subarachnoid space from basilar artery
+3511278015	Spontaneous haemorrhage of subarachnoid space from basilar artery
+3511279011	Nontraumatic hemorrhage of subarachnoid space from basilar artery
+3511280014	Nontraumatic haemorrhage of subarachnoid space from basilar artery
+3511282018	Spontaneous hemorrhage of subarachnoid space from intracranial artery
+3511283011	Spontaneous haemorrhage of subarachnoid space from intracranial artery
+3511284017	Nontraumatic hemorrhage of subarachnoid space from intracranial artery
+3511285016	Nontraumatic haemorrhage of subarachnoid space from intracranial artery
+3513216018	Occlusion of left cerebellar artery
+3513218017	Occlusion of right cerebellar artery
+3515793014	Cerebrovascular accident due to occlusion of right vertebral artery
+3533577011	Nontraumatic intracranial hemorrhage
+3636137015	Cerebrovascular accident due to occlusion of right posterior cerebral artery by embolus
+3636973011	Occlusion of left cerebellar artery by embolus
+3636975016	Occlusion of right cerebellar artery by embolus
+3637000018	Occlusion of right posterior cerebral artery by embolus
+3637002014	Occlusion of left posterior cerebral artery by embolus
+3662311000006113	Thrombosis of cerebral arteries
+3662321000006117	Cerebral arterial thrombosis
+3687821000006114	Cerebral hemisphere hemorrhage
+3719871000006114	Hemorrhagic cerebellum
+4056961000006113	Brainstem hemorrhage
+4540671000006111	H/O subarachnoid hemorrhage
+4540681000006114	History of subarachnoid hemorrhage
+4777701000006111	Ruptured saccular aneurysm
+4777721000006118	Subarachnoid hemorrhage from carotid siphon and bifurcation
+4777741000006113	Subarachnoid hemorrhage from vertebral artery
+4777751000006110	Intracranial subarachnoid hemorrhage from vertebral artery
+4777761000006112	Intracranial subarachnoid haemorrhage from vertebral artery
+4777831000006111	External capsule hemorrhage
+4777851000006116	Intracerebral hemorrhage, intraventricular
+4777891000006110	Intracerebral hemorrhage, multiple localized
+4777971000006115	Basilar artery obstruction
+5011021000006113	Cerebrovascular accident due to cerebral artery occlusion
+5011311000006115	Haemorrhagic stroke
+5011321000006111	Hemorrhagic stroke
+5011341000006116	Anterior cerebral circulation hemorrhagic infarction
+5011361000006117	Posterior cerebral circulation hemorrhagic infarction
+5011381000006110	Massive supratentorial cerebral hemorrhage
+5011401000006110	Lobar cerebral hemorrhage
+5011441000006112	Lacunar hemorrhage
+5011561000006112	Subarachnoid haemorrhage due to ruptured arteriovenous malformation
+5011591000006116	Subarachnoid hemorrhage due to ruptured aneurysm
+5011601000006112	SAH - Subarachnoid hemorrhage from ruptured aneurysm
+5011611000006110	SAH - Subarachnoid haemorrhage from ruptured aneurysm
+5011621000006119	Intracranial subarachnoid hemorrhage due to ruptured aneurysm
+5011631000006116	Intracranial subarachnoid haemorrhage due to ruptured aneurysm
+5518051000006114	SAH - Spontaneous subarachnoid hemorrhage
+5518081000006118	Spontaneous intracranial subarachnoid haemorrhage
+5518091000006115	Spontaneous intracranial subarachnoid hemorrhage
+5518111000006112	Nontraumatic subarachnoid intracranial haemorrhage
+5560161000006111	Intracerebral hemorrhage (ICH)
+5582981000006119	Subarachnoid hemorrhage from multiple aneurysms
+5583001000006115	Subarachnoid hemorrhage from anterior cerebral artery aneurysm
+5583031000006111	Subarachnoid hemorrhage from middle cerebral artery aneurysm
+5583051000006116	Subarachnoid hemorrhage from posterior cerebral artery aneurysm
+5583071000006114	Subarachnoid hemorrhage from anterior communicating artery aneurysm
+5583091000006110	Subarachnoid hemorrhage from posterior communicating artery aneurysm
+5583111000006118	Subarachnoid hemorrhage from basilar artery aneurysm
+5583131000006112	Subarachnoid hemorrhage from posterior inferior cerebellar artery aneurysm
+5583141000006119	Subarachnoid haemorrhage from carotid artery aneurysm
+5583151000006117	Subarachnoid hemorrhage from carotid artery aneurysm
+5597341000006111	Angiogram-negative subarachnoid hemorrhage
+5597351000006113	Angiogram-negative intracranial subarachnoid hemorrhage
+5597361000006110	Angiogram-negative intracranial subarachnoid haemorrhage
+5597511000006118	Ruptured aneurysm of posterior cerebral artery
+5597611000006117	Ruptured aneurysm of posterior inferior cerebellar artery
+5597641000006118	Ruptured internal carotid-anterior communicating artery zone aneurysm
+5597661000006119	Ruptured internal carotid bifurcation aneurysm
+5649211000006111	Extension of stroke
+5649221000006115	CVA - Extension of cerebrovascular accident
+6593111000006115	Nontraumatic extradural hemorrhage
+6593121000006111	Nontraumatic epidural haemorrhage
+6593131000006114	Nontraumatic epidural hemorrhage
+6593141000006116	Nontraumatic extradural intracranial hemorrhage
+6593151000006119	Nontraumatic extradural intracranial haemorrhage
+6907881000006118	Hemorrhagic stroke monitoring
+7052011000006119	Non-traumatic intracerebral ventricular haemorrhage
+7052021000006110	Non-traumatic intracerebral ventricular hemorrhage
+7067301000006114	Medulla oblongata stroke
+7085851000006110	History of cerebral haemorrhage
+7085861000006112	History of cerebral hemorrhage
+7096021000006119	History of haemorrhage into ventricle of brain
+7096031000006116	History of ventricular hemorrhage
+7096041000006114	History of hemorrhage into ventricle of brain
+7096051000006111	History of intraventricular haemorrhage
+7096061000006113	History of intraventricular hemorrhage
+7096071000006118	History of ventricular haemorrhage
+7100261000006114	History of cardioembolic stroke
+7112631000006117	History of cerebrovascular accident without residual deficits
+7135051000006117	History of occlusion of cerebral artery
+7184511000006118	History of occlusion of cerebral artery without cerebral infarction
+7232811000006116	History of cerebrovascular accident with residual deficit
+7251251000006113	Infarct of cerebrum due to iatrogenic cerebrovascular accident
+7377671000006118	Haemorrhage into subarachnoid space of neuraxis
+7377681000006115	Hemorrhage into subarachnoid space of neuraxis
+7378281000006118	Intracranial hemorrhage following injury
+7378441000006113	Traumatic cerebral hemorrhage
+7522031000006111	History of cerebrovascular accident in last eight weeks
+7571421000006110	Deep hemispheric cerebral haemorrhage
+7571441000006115	Deep hemispheric cerebral hemorrhage
+7571451000006118	Deep hemispheric hemorrhage
+7571741000006112	Subarachnoid haemorrhage from vertebral artery aneurysm
+7571751000006114	Subarachnoid hemorrhage from vertebral artery aneurysm
+7703611000006111	Post CVA (cerebrovascular accident) pain
+7741501000006118	Cerebrovascular accident during surgery
+7741511000006115	CVA (cerebrovascular accident) during surgery
+7855651000006116	Cerebral ischaemic stroke due to intracranial large artery atherosclerosis
+7855661000006119	Cerebral ischemic stroke due to intracranial large artery atherosclerosis
+7855671000006114	Cerebral ischaemic stroke due to extracranial large artery atherosclerosis
+7855681000006112	Cerebral ischemic stroke due to extracranial large artery atherosclerosis
+7855731000006119	Migraine-induced stroke
+7863711000006119	Cerebral ischaemic stroke due to occlusion of extracranial large artery
+7863721000006110	Cerebral ischemic stroke due to occlusion of extracranial large artery
+7863731000006113	Cerebral ischaemic stroke due to stenosis of extracranial large artery
+7865721000006111	Ischaemic stroke without residual deficits
+7865731000006114	Ischemic stroke without residual deficits
+7951281000006118	Hemorrhage of medulla oblongata
+7955241000006114	Multifocal cerebral infarction due to and following procedure on cardiovascular system
+8015121000006118	Cerebral infarction due to occlusion of basilar artery
+8015131000006115	Cerebral infarction due to vertebral artery occlusion
+8030701000006114	History of parietal cerebrovascular accident
+8031211000006113	History of lacunar cerebrovascular accident
+8037251000006117	History of thrombotic stroke without residual deficits
+8037261000006115	History of haemorrhagic cerebrovascular accident without residual deficits
+8037271000006110	History of hemorrhagic cerebrovascular accident without residual deficits
+8037281000006113	History of embolic stroke without deficits
+8044331000006114	History of haemorrhagic stroke with hemiparesis
+8044341000006116	History of hemorrhagic stroke with hemiparesis
+8044361000006117	History of haemorrhagic stroke with hemiplegia
+8044371000006112	History of hemorrhagic stroke with hemiplegia
+8044411000006113	Spontaneous cerebral haemorrhage with compression of brain
+8044421000006117	Compression of brain co-occurrent and due to spontaneous cerebral hemorrhage
+8044431000006119	Spontaneous cerebral hemorrhage with compression of brain
+8044441000006112	Compression of brain co-occurrent and due to spontaneous cerebral haemorrhage
+8044461000006111	Ischaemic stroke with coma
+8044471000006116	Ischemic stroke with coma
+8044491000006115	Ischemic stroke without coma
+8044541000006113	Nontraumatic subarachnoid haemorrhage with brain compression
+8044551000006110	Compression of brain co-occurrent and due to nontraumatic subarachnoid haemorrhage
+8044561000006112	Compression of brain co-occurrent and due to nontraumatic subarachnoid hemorrhage
+8044571000006117	Nontraumatic subarachnoid hemorrhage with brain compression
+8044621000006119	History of ischaemic stroke without residual deficits
+8044631000006116	History of ischemic stroke without residual deficits
+8044801000006113	History of ischaemic cerebrovascular accident with residual deficit
+8044811000006111	History of ischemic cerebrovascular accident with residual deficit
+8044821000006115	History of embolic stroke with deficits
+8045251000006112	Spontaneous cerebellar haemorrhage
+8045261000006114	Spontaneous cerebellar hemorrhage
+8045751000006117	Spontaneous intraparenchymal cerebral haemorrhage
+8045761000006115	Spontaneous intraparenchymal cerebral hemorrhage
+8045771000006110	Nontraumatic intraparenchymal cerebral hemorrhage
+8089821000006113	Spontaneous cerebral haemorrhage
+8089831000006111	Spontaneous cerebral hemorrhage
+8089841000006118	Nontraumatic intracerebral hemorrhage
+8090421000006115	Cerebral infarction due to vertebral artery stenosis
+8211971000006112	History of stroke of cerebellum
+8211981000006110	History of nontraumatic ruptured cerebral aneurysm
+2729551000000111	Cerebral infarction due to occlusion of cerebral artery
+2729571000000119	Cerebral infarction due to stenosis of cerebral artery
+2901571000006113	Completed stroke
+2954611000006112	Pars basalis haemorrhage
+2954621000006116	Basilar hemorrhage
+2954631000006118	Basilar haemorrhage
+2954641000006111	Pars basalis hemorrhage
+4193641000006111	Nonparalytic stroke
+4270361000006116	Paralytic stroke
+5009091000006112	Infarction of optic radiation
+5898461000006119	Cerebellar haematoma
+5898471000006114	Cerebellar hematoma
+5912811000006111	Infarction of visual cortex
+6431861000006113	Periventricular haemorrhagic venous infarct
+6431871000006118	Periventricular hemorrhagic venous infarct
+7134241000006113	Intraparenchymal haematoma of brain
+7134251000006110	Intraparenchymal hematoma of brain
+7363341000006119	Intraparenchymal haemorrhage of brain
+7363351000006117	Intraparenchymal hemorrhage of brain
+7386801000006119	Haemorrhage in globus pallidus
+7386811000006116	Pallidal hemorrhage
+7386821000006112	Pallidal haemorrhage
+7386831000006110	Hemorrhage in globus pallidus
+7386841000006117	Haemorrhage in caudate nucleus
+7386851000006115	Hemorrhage in caudate nucleus
+7386861000006118	Haemorrhage in putamen
+7386871000006113	Hemorrhage in putamen
+7572361000006118	Non-aneurysmal subarachnoid intracranial haemorrhage
+7572371000006113	Non-aneurysmal subarachnoid intracranial hemorrhage
+7572401000006111	Convexal subarachnoid haemorrhage
+7572411000006114	Convexal subarachnoid hemorrhage
+7586101000006114	Non-aneurysmal perimesencephalic subarachnoid haemorrhage
+7586111000006112	Non-aneurysmal perimesencephalic subarachnoid hemorrhage
+7834261000006115	Focal haemorrhagic contusion of cerebrum
+7834271000006110	Focal hemorrhagic contusion of cerebrum
+7839991000006115	Silent cerebral infarct
+8221321000006118	Stroke and TIA
+299757012	Angina pectoris
+264493019	Angina control - good
+1488382011	Acute coronary syndrome
+7845011	Unstable angina
+251679016	H/O: angina pectoris
+264492012	Angina control
+350348018	Stable angina
+72571000006115	Unstable angina
+482941000006119	Angina pectoris NOS
+299765010	Angina pectoris NOS
+264496010	Angina control - worsening
+350379019	Cardiac syndrome X
+264494013	Angina control - poor
+442204010	Angina on effort
+264495014	Angina control - improving
+299741012	Preinfarction syndrome
+39773018	Coronary artery spasm
+299745015	Acute coronary insufficiency
+7847015	Crescendo angina
+494261017	Worsening angina
+338974012	Ischaemic chest pain
+264497018	Angina control NOS
+7844010	Preinfarction syndrome
+1235225010	Prinzmetal's angina
+498328016	Angina at rest
+451370011	H/O: Angina in last year
+451425016	Antianginal therapy
+350350014	New onset angina
+2534674015	Chronic myocardial ischaemia
+98087016	Angina decubitus
+1752201000000116	Frequency of angina
+5887611000006117	Exercise-induced angina
+458410010	Post infarct angina
+459487012	Refractory angina
+4775971000006114	Angina
+6360391000006118	Atypical angina
+482811000006113	Angina at rest
+2537483013	Chronic coronary insufficiency
+59952018	Nocturnal angina
+7105241000006116	Typical angina
+144819018	Variant angina pectoris
+300874013	[X]Other forms of angina pectoris
+5887631000006111	Exertional angina
+299763015	Angina decubitus NOS
+3920021000006112	Coronary artery spasm angina
+931961000006117	Acute coronary syndrome
+5056491000006117	Chest pain with normal coronary angiography
+36036010	Syncope anginosa
+3166141000006114	Angina, class II
+3919991000006112	Prinzmetal angina
+3920011000006116	Variant angina
+32122016	Status anginosus
+9868461000006110	Unstable angina co-occurrent and due to coronary arteriosclerosis
+4776031000006115	Ischaemic heart disease - angina
+299758019	Stenocardia
+3886751000006118	Angina, class III
+3499001000006116	Angina, class I
+3516223013	Angina self management plan
+1.22762710000e+16	Progressive angina
+2571561000006118	Pre-infarction syndrome
+6360421000006114	Recurrent angina after coronary stent placement
+6360401000006116	Recurrent angina after percutaneous transluminal coronary angioplasty
+7966931000006114	Angina associated with type 2 diabetes mellitus
+4776001000006111	Anginal syndrome
+6360441000006119	Recurrent angina after coronary artery bypass graft
+494260016	Impending infarction
+2878041000006119	Coronary spasm
+1.21259710000e+16	Unstable angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft
+4540501000006118	History of angina pectoris
+4776021000006118	Ischemic heart disease - angina
+3458791000006114	Anginal chest pain at rest
+5887641000006118	Angina of effort
+4775981000006112	Cardiac angina
+3951991000006119	Angina, class IV
+9868481000006116	Angina co-occurrent and due to coronary arteriosclerosis
+1.48568110000e+16	Recurrent angina following placement of coronary artery stent
+2571531000006110	Intermediate coronary syndrome
+3920001000006119	Variant angina pectoris
+1.21259510000e+16	Arteriosclerosis of autologous vein coronary artery bypass graft with angina
+4776011000006114	AP - Angina pectoris
+2571571000006113	Preinfarction angina
+4943331000006119	Ischemic chest pain
+5974501000006114	History of angina in last year
+6847871000006116	Chronic myocardial ischemia
+2878031000006112	Angina pectoris with documented spasm
+6360381000006116	Progressive Angina
+6360411000006118	Recurrent angina status post percutaneous transluminal coronary angioplasty
+6360431000006112	Recurrent angina status post coronary stent placement
+6360451000006117	Recurrent angina status post coronary artery bypass graft
+6360471000006110	Recurrent angina status post rotational atherectomy
+6360461000006115	Recurrent angina post rotational atherectomy
+6360481000006113	Recurrent angina after directional coronary atherectomy
+6360491000006111	Recurrent angina status post directional coronary atherectomy
+7966951000006119	Diabetic angina pectoris associated with type 2 diabetes mellitus
+7966941000006116	Angina associated with type II diabetes mellitus
+9868511000006112	Angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft
+1.21259610000e+16	Angina co-occurrent and due to arteriosclerosis of autologous vein coronary artery bypass graft
+1.21259810000e+16	Arteriosclerosis of coronary artery bypass graft with unstable angina
+139475013	Heart failure
+70653017	Congestive heart failure
+141306010	Left ventricular failure
+493287011	Congestive cardiac failure
+216207010	Left ventricular systolic dysfunction
+2159197017	Echocardiogram shows left ventricular systolic dysfunction
+2549243014	Seen in heart failure clinic
+142397010	Cardiomyopathy
+2616471011	New York Heart Association Classification - Class II
+784191000006110	Impaired left ventricular function
+2548316014	Seen by community heart failure nurse
+2616470012	New York Heart Association Classification - Class I
+2616472016	New York Heart Association Classification - Class III
+301694014	Pulmonary oedema
+300040013	Primary dilated cardiomyopathy
+411506018	Impaired left ventricular function
+216184014	Congestive heart failure monitoring
+75410014	Hypertrophic obstructive cardiomyopathy
+2159198010	Echocardiogram shows left ventricular diastolic dysfunction
+1489358014	Left ventricular diastolic dysfunction
+139482012	Cardiac failure
+395772015	Heart failure NOS
+107545013	Hypertensive heart disease
+1647701000000118	Heart failure with normal ejection fraction
+3886041000006118	Left heart failure
+300179017	Decompensated cardiac failure
+6978012	Diastolic dysfunction
+2549697018	Referral to heart failure nurse
+1488804017	Heart failure confirmed
+7573171000006116	Heart failure with reduced ejection fraction
+147247018	Chronic congestive heart failure
+132655012	Chronic cor pulmonale
+510016018	Biventricular congestive heart failure
+206703015	Right heart failure
+299796018	Ischaemic cardiomyopathy
+300910013	Hypertrophic cardiomyopathy
+300062013	Cardiomyopathy NOS
+300038015	Hypertrophic non-obstructive cardiomyopathy
+300190010	Acute left ventricular failure
+138527014	Alcoholic cardiomyopathy
+1490256017	Acute pulmonary oedema
+833381000006119	New York Heart Association Classification class
+6615851000006116	Dilated cardiomyopathy
+82584011	Acute cor pulmonale
+34556015	Secondary dilated cardiomyopathy
+251680018	H/O: heart failure
+18472010	Acute congestive heart failure
+2227501000000110	Heart failure with preserved ejection fraction
+7025691000006110	Decompensated chronic heart failure
+2616473014	New York Heart Association Classification - Class IV
+2694523019	Left ventricular cardiac dysfunction
+94251011	Acute heart failure
+2548656015	Right ventricular systolic dysfunction
+301741013	Acute pulmonary oedema unspecified
+1816101000006113	Right ventricular failure
+2117931000000116	Heart failure self-management plan agreed
+4776121000006117	Generalised ischaemic myocardial dysfunction
+299851018	Other chronic pulmonary heart disease
+1778488011	Congestive cardiomyopathy
+301743011	Acute pulmonary oedema NOS
+7321121000006119	Heart failure with preserved ejection fraction
+490972013	Right ventricular failure
+223981000000118	Cardiac failure NOS
+451426015	Cardiac failure therapy
+395756011	Chronic pulmonary heart disease NOS
+59588016	Familial cardiomyopathy
+3182541000006117	Congestive cardiac failure
+419130013	Arrhythmogenic right ventricular cardiomyopathy
+3182551000006115	CCF - Congestive cardiac failure
+1.39106710000e+16	Heart failure with mid range ejection fraction
+3855401000006112	Cor pulmonale
+395768019	Cardiomyopathy associated with another disorder
+300180019	Compensated cardiac failure
+4777091000006118	Hypertrophic cardiomyopathy without obstruction
+316833010	Congenital cardiac failure
+145620019	Chronic pulmonary heart disease
+6029491000006114	No cardiac failure
+537991000006111	Postpartum cardiomyopathy
+2675255018	Congestive heart failure due to valvular disease
+1.19270110000e+16	New York Heart Association Classification
+2664351000006113	Chronic right-sided heart failure
+2549208013	Emergency hospital admission for heart failure
+453099015	H/O: Heart failure in last year
+7251291000006119	Chronic diastolic heart failure
+7056281000006118	Congestive heart failure due to left ventricular systolic dysfunction
+3283871000006117	Chronic heart failure
+494669012	Chronic pulmonary oedema
+2549128016	Right ventricular diastolic dysfunction
+741681000006111	Hypertensive heart disease NOS with CCF
+1661371000000112	HFNEF - heart failure with normal ejection fraction
+1495417010	Cardiac asthma
+300911012	Primary restrictive cardiomyopathy
+300912017	[X]Other cardiomyopathies
+741661000006118	Hypertensive heart disease NOS
+504901000006118	Benign hypertensive heart disease with congestive cardiac failure
+2674238014	Tachycardia-induced cardiomyopathy
+299655012	Hypertensive heart disease NOS
+3859091000006114	Dilated cardiomyopathy secondary to alcohol
+741691000006114	Hypertensive heart disease NOS without CCF
+300054017	Cardiomyopathy in myotonic dystrophy
+4193361000006119	Chronic left-sided heart failure
+7573201000006117	Heart failure with reduced ejection fraction due to cardiomyopathy
+1703621000000112	Worsening pulmonary oedema
+300032019	Other primary cardiomyopathies
+401870011	Postoperative pulmonary oedema
+72934016	Rheumatic left ventricular failure
+460126017	Cardiomyopathy in Duchenne muscular dystrophy
+150511013	Constrictive cardiomyopathy
+412678013	Neonatal cardiac failure
+300041012	Other primary cardiomyopathy NOS
+7573181000006118	Heart failure with reduced ejection fraction due to coronary artery disease
+6873341000006113	Restrictive cardiomyopathy
+1705371000000116	Tachycardiomyopathy
+6960931000006110	NYHA - New York Heart Association Classification
+1778232017	Endomyocardial fibrosis
+884181000006110	Pulmonary heart disease
+5331151000006110	Arrhythmogenic right ventricular dysplasia
+139481017	Weak heart
+350484012	Heart failure as a complication of care
+299673010	Hypertensive heart and renal disease with renal failure
+3589241000006116	Chronic right-sided congestive heart failure
+504911000006115	Benign hypertensive heart disease without CCF
+6212521000006115	Acute cardiac pulmonary oedema
+7475751000006117	Ischaemic dilated cardiomyopathy due to coronary artery disease
+741701000006114	Hypertensive heart and renal disease with (congestive) heart failure
+300916019	[X]Cardiomyopathy in other diseases classified elsewhere
+300053011	Cardiomyopathy in Friedreich's ataxia
+7119751000006110	Chronic systolic dysfunction of left ventricle
+7573211000006119	Heart failure with reduced ejection fraction due to heart valve disease
+300057012	Cardiomyopathy associated with another disorder
+666221000006118	Familial cardiac amyloid
+7510321000006115	Asymptomatic left ventricular systolic dysfunction
+728681000006116	Malignant hypertensive heart disease without congestive heart failure
+2549089012	Left ventricular dysfunction monitoring verbal invite
+403107019	Cardiac insufficiency as a complication of care
+5573991000006118	Impaired left ventricular func
+111625010	Acute pulmonary heart disease
+1.40150510000e+16	Acute on chronic right-sided congestive heart failure
+7250571000006113	Chronic systolic heart failure
+1216090015	Acute oedema of lung, unspecified
+6615891000006110	DCM - Dilated cardiomyopathy
+6919191000006119	Diastolic heart failure
+300052018	Cardiomyopathy in disease EC
+8030311000006111	Exacerbation of congestive heart failure
+7065281000006117	Ischaemic congestive cardiomyopathy
+3886071000006114	LVF - Left ventricular failure
+4776141000006112	Ischemic cardiomyopathy
+728671000006119	Malignant hypertensive heart disease with congestive cardiac failure
+789941000006117	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+1.19984210000e+16	NYHA (New York Heart Association) Classification class
+300214014	Post cardiac operation functional disturbance
+5056831000006119	HCM - Hypertrophic cardiomyopathy
+324975010	Heart-lung transplant failure and rejection
+300055016	Dystrophic cardiomyopathy
+2805341000006119	Pulmonary edema
+3343411000006113	Primary familial dilated cardiomyopathy
+324974014	Heart transplant failure and rejection
+299853015	Other chronic pulmonary heart disease NOS
+2585431000006117	Chronic left-sided congestive heart failure
+6611081000006118	Restrictive cardiomyopathy with endomyocardial fibrosis
+350413012	Congestive obstructive cardiomyopathy
+300217019	Post cardiac operation heart failure NOS
+370261000006111	[X]Cardiomyopathy in infectious+parasitic diseases CE
+8048061000006111	Chronic combined systolic and diastolic heart failure
+884211000006114	Other pulmonary heart disease
+7573191000006115	Heart failure with reduced ejection fraction due to myocarditis
+884191000006113	Chronic pulmonary heart dis.
+300884014	[X]Other specified pulmonary heart diseases
+6914191000006115	Systolic heart failure
+7475721000006114	Heart failure due to end stage congenital heart disease
+6043761000006113	Refractory heart failure
+299848013	Acute pulmonary heart disease NOS
+6204381000006117	Acute right-sided heart failure
+7119761000006112	Chronic left ventricular systolic dysfunction
+7487191000006113	Right ventricular cardiac dysfunction
+4005301000006110	Biventricular failure
+2660881000006116	High output heart failure
+3152691000006117	Acute pulmonary edema
+7507301000006110	Acute exacerbation of chronic congestive heart failure
+3552501000006119	Hypertensive cardiopathy
+1.34840310000e+16	Cardiomyopathy due to disease caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2)
+7052811000006113	Right heart failure due to pulmonary hypertension
+7964821000006113	Nonischemic congestive cardiomyopathy
+8011111000006111	Congestive heart failure with right heart failure
+5331161000006112	Arrhythmogenic right ventricular cardiomyopathy
+3244761000006113	Hypertensive heart failure
+3343421000006117	Familial dilated cardiomyopathy
+395766015	Obscure African cardiomyopathy
+3800291000006115	COR - Chronic cor pulmonale
+6973241000006110	New York Heart Classification finding
+3182531000006110	Congestive heart disease
+3229421000006114	HOCM - Hypertrophic obstructive cardiomyopathy
+3182561000006118	CHF - Congestive heart failure
+2934111000006116	Familial amyloid cardiomyopathy
+4777111000006110	HCM - Hypertrophic non-obstructive cardiomyopathy
+1.39716610000e+16	Infiltrative cardiomyopathy
+7487181000006110	Dysfunction of right cardiac ventricle
+1.45091110000e+16	Dilated cardiomyopathy of ischaemic origin
+3360091000006112	Primary idiopathic dilated cardiomyopathy
+7510341000006110	Symptomatic congestive heart failure
+4540521000006111	History of heart failure
+3152721000006110	Pulmonary oedema - acute
+2504341000006116	Acute left heart failure
+3513911000006111	Puerperal cardiomyopathy
+7806081000006118	Cardiomyopathy and renal anomaly syndrome
+1.44996510000e+16	Dilated cardiomyopathy due to metabolic disorder
+3974561000006115	Pleural effusion due to congestive heart failure
+305601017	Cardiac failure following abortive pregnancy
+8065541000006115	Cardiomyopathy due to viral infection
+1.19984710000e+16	Assessment using NYHA (New York Heart Association) Classification
+3886061000006119	Left-sided heart failure
+2581861000006110	Hypertensive heart disease with congestive heart failure
+3213831000006118	Right heart failure secondary to left heart failure
+3623041000006114	Replacement of pulmonary heart valve in total repair of tetralogy of Fallot
+3842421000006111	Congestive rheumatic heart failure
+3859111000006117	Dilated cardiomyopathy caused by alcohol
+3866161000006118	Primary familial hypertrophic cardiomyopathy
+359673017	Hauptmann-Thannhauser muscular dystrophy
+5560071000006117	Pulmonary heart disease
+7275961000006118	Acute on chronic diastolic heart failure
+7347751000006119	Left ventricular myocardial noncompaction cardiomyopathy
+7560331000006116	Dilated cardiomyopathy 3B
+7560341000006114	DMD-associated dilated cardiomyopathy
+1.20491510000e+16	Familial dilated cardiomyopathy with conduction defect due to LMNA mutation
+1.41963310000e+16	Pulmonary heart disease
+1.39713010000e+16	Low output heart failure due to and following Fontan operation
+3152701000006117	Acute edema of lung
+3868341000006118	HF - Heart failure
+6212531000006117	Cardiogenic pulmonary oedema
+3552521000006112	Hypertensive cardiovascular disease
+3229411000006118	Obstructive cardiomyopathy
+3489281000006119	Hypertensive heart disease without congestive heart failure
+3809001000006112	Acute right-sided congestive heart failure
+300046019	Mucopolysaccharidosis cardiomyopathy
+6873351000006110	Constrictive cardiomyopathy
+7262501000006110	Combined systolic and diastolic dysfunction
+7274561000006113	Acute on chronic systolic heart failure
+7475611000006114	Cardiomyopathy due to neuromuscular disorder
+1.18588510000e+16	Pacing-induced cardiomyopathy
+7735491000006113	Transthyretin related familial amyloid cardiomyopathy
+7738911000006118	Familial isolated arrhythmogenic right ventricular dysplasia
+3852501000006115	Malignant hypertensive heart disease with congestive heart failure
+3927521000006118	Chronic cardiopulmonary disease
+3152731000006113	Pulmonary edema - acute
+3152711000006119	Acute oedema of lung
+3868321000006113	Weak heart
+3868311000006117	Myocardial failure
+3868351000006116	Cardiac insufficiency
+5990971000006113	History of heart failure in last year
+6895651000006113	Emergency hospital admission for heart failure
+1.24900610000e+16	Admit heart failure emergency
+6615901000006114	Congestive dilated cardiomyopathy
+6615871000006114	CCM - Congestive cardiomyopathy
+6615881000006112	COCM - Congestive cardiomyopathy
+6212571000006119	Acute cardiogenic pulmonary edema
+6212541000006110	Cardiogenic pulmonary edema
+6212551000006112	Acute cardiac pulmonary edema
+6212561000006114	Acute cardiogenic pulmonary oedema
+5586371000006119	Cardiac failure developing in the perinatal period
+5602531000006118	Sepsis-associated left ventricular failure
+5602541000006111	Sepsis-associated right ventricular failure
+3552531000006110	HHD - Hypertensive heart disease
+3552511000006116	Hypertensive cardiomegaly
+3669421000006118	Asthma - cardiac
+2504331000006114	Acute left-sided heart failure
+2529901000006111	Dilated cardiomyopathy secondary to toxic reaction
+2530931000006112	Dilated cardiomyopathy secondary to metazoal myocarditis
+2543761000006114	Dilated cardiomyopathy secondary to myotonic dystrophy
+2580171000006116	Cardiac insufficiency due to prosthesis
+2580181000006118	Heart failure due to prosthesis
+2595681000006117	Dilated cardiomyopathy secondary to sarcoidosis
+2631011000006118	Dilated cardiomyopathy secondary to haemochromatosis
+2631021000006114	Dilated cardiomyopathy secondary to hemochromatosis
+2676691000006113	Dilated cardiomyopathy secondary to phytanic acid storage disease
+2676711000006111	Dilated cardiomyopathy secondary to Refsum disease
+2676701000006113	Dilated cardiomyopathy secondary to Refsum's disease
+2699901000006110	Dilated cardiomyopathy secondary to radiation
+2699911000006113	Dilated cardiomyopathy caused by radiation
+2746601000006112	Restrictive cardiomyopathy secondary to infiltrations
+2757771000006111	Dilated cardiomyopathy secondary to peripartum heart disease
+2840701000006117	Dilated cardiomyopathy secondary to rheumatoid arthritis
+2892421000006113	Restrictive cardiomyopathy secondary to malignancy
+2908651000006113	Low output heart failure
+2934071000006112	Danish type familial amyloid cardiomyopathy
+2934091000006113	Danish type amyloidosis
+2934081000006110	Familial amyloid heart disease
+2934101000006119	Denmark type amyloidosis
+2964231000006113	Dilated cardiomyopathy secondary to muscular dystrophy
+2969451000006116	Dilated cardiomyopathy secondary to sensitivity
+2991241000006116	Dilated cardiomyopathy secondary to viral myocarditis
+2997821000006118	Restrictive cardiomyopathy secondary to familial storage disease
+3031351000006116	Restrictive cardiomyopathy secondary to endocardial fibroelastosis
+3035191000006110	Constrictive endocarditis
+3035161000006119	Primary eosinophilic endomyocardial restrictive cardiomyopathy
+3035201000006113	LÃ¶ffler's parietal fibroplastic endocarditis
+3035171000006114	Eosinophilic endomyocardial disease
+3035181000006112	LÃ¶ffler's endocarditis
+3053021000006110	Dilated cardiomyopathy secondary to deficiency
+3075181000006114	Dilated cardiomyopathy due to systemic sclerosis
+3075191000006112	Dilated cardiomyopathy secondary to scleroderma
+3075321000006112	Primary familial cardiomyopathy
+3087841000006114	Dilated cardiomyopathy secondary to systemic lupus erythematosus
+3128441000006111	Restrictive cardiomyopathy secondary to sarcoidosis
+3138401000006112	Dilated cardiomyopathy secondary to granuloma
+3152591000006116	Dilated cardiomyopathy secondary to protozoal myocarditis
+3176431000006115	Hypertrophic cardiomyopathy secondary to neuromuscular disorder
+3178551000006110	Primary endomyocardial fibrosis restrictive cardiomyopathy
+3219591000006115	Dilated cardiomyopathy secondary to fungal myocarditis
+3254291000006112	Dilated cardiomyopathy secondary to dermatomyositis
+3258591000006117	Congestive cardiomyopathy due to selenium deficiency
+3258581000006115	Keshan disease
+3314361000006111	Dilated cardiomyopathy secondary to Friedreich's ataxia
+3314371000006116	Dilated cardiomyopathy secondary to Friedreich ataxia
+3314451000006119	Cobalt cardiomyopathy
+3314461000006117	Beer-drinker's cardiomyopathy
+3364811000006118	Hypertrophic cardiomyopathy secondary to Friedreich ataxia
+3364801000006116	Hypertrophic cardiomyopathy secondary to Friedreich's ataxia
+3370881000006114	Primary eosinophilic endomyocardial cardiomyopathy
+3389851000006118	Dilated cardiomyopathy secondary to bacterial myocarditis
+3402251000006117	Cardiac failure after obstetrical surgery AND/OR other procedure including delivery
+3424991000006119	Restrictive cardiomyopathy secondary to hemochromatosis
+3424981000006117	Restrictive cardiomyopathy secondary to haemochromatosis
+3452461000006110	Dilated cardiomyopathy secondary to amyloidosis
+3457111000006119	Dilated cardiomyopathy secondary to glycogen storage disease
+3482991000006115	Dilated cardiomyopathy secondary to familial storage disease
+3488561000006119	Cardiac insufficiency following cardiac surgery
+3488571000006114	Heart failure following cardiac surgery
+3527431000006113	Primary idiopathic hypertrophic cardiomyopathy
+3541361000006118	Primary idiopathic restrictive cardiomyopathy
+3550951000006114	Restrictive cardiomyopathy secondary to glycogen storage disease
+3553111000006118	Dilated cardiomyopathy secondary to infiltration
+3616311000006110	Primary endomyocardial fibrosis cardiomyopathy
+3623031000006116	Repair of pulmonary heart valve with prosthesis in total repair of tetralogy of Fallot
+3632101000006116	Nonobstructive cardiomyopathy
+3687151000006112	Cardiomyopathy due to drug
+3687171000006119	Dilated cardiomyopathy caused by drug
+3687141000006110	Drug-induced cardiomyopathy
+3687161000006114	Drug-induced specific heart muscle disorder
+3687131000006117	Dilated cardiomyopathy secondary to drug
+3706941000006119	Dilated cardiomyopathy secondary to malignancy
+3718701000006116	Acute left-sided congestive heart failure
+3750831000006111	Restrictive cardiomyopathy secondary to granulomas
+3768511000006114	Benign hypertensive heart disease without congestive heart failure
+3787161000006116	Dilated cardiomyopathy secondary to neuromuscular disorder
+3797011000006119	Restrictive cardiomyopathy secondary to amyloidosis
+3821291000006118	Heart failure cell
+3821281000006116	Hemosiderin-laden macrophage
+3821271000006119	Haemosiderin-laden macrophage
+3855421000006119	Right heart failure due to pulmonary disease
+3855411000006110	Right heart failure due to disorder of lung
+3878001000006111	Restrictive cardiomyopathy secondary to mucopolysaccharidosis
+3878171000006116	Dilated cardiomyopathy secondary to nutritive deficiency
+3878181000006118	Nutritional cardiomyopathy
+3896181000006114	Myocardiopathy
+3901271000006117	Dilated cardiomyopathy secondary to infection
+3914551000006112	Dilated cardiomyopathy secondary to mucopolysaccharidosis
+3954121000006116	Primary cardiomyopathy
+3959991000006115	Cardiac insufficiency during AND/OR resulting from a procedure
+3960001000006113	Heart failure during AND/OR resulting from a procedure
+3966281000006113	Dilated cardiomyopathy secondary to electrolyte deficiency
+3987001000006110	Rheumatic heart valve failure
+3988271000006114	Dilated cardiomyopathy secondary to polyarteritis nodosa
+4022741000006114	Hypertrophic cardiomyopathy secondary to hyperthyroidism
+4193381000006112	Dilated cardiomyopathy secondary to metabolic disorder
+4193391000006110	Metabolic cardiomyopathy
+4776131000006119	Generalized ischemic myocardial dysfunction
+4777191000006117	Cardiomyopathy, secondary
+1.19043310000e+16	Secondary cardiomyopathy NOS
+1.27042210000e+16	Cardiomyopathy associated with another disorder
+4777181000006115	Secondary cardiomyopathy
+4777211000006116	Cardiomyopathy in Friedreich ataxia
+5056841000006112	Post-myocarditic cardiomyopathy
+5056871000006116	Restrictive cardiomyopathy without endomyocardial fibrosis
+5056881000006118	Familial restrictive cardiomyopathy
+5143111000006115	Benign scapuloperoneal muscular dystrophy with cardiomyopathy
+5143171000006112	Severe scapuloperoneal muscular dystrophy with cardiomyopathy
+2682661000006114	Postoperative pulmonary edema
+5588241000006116	Haemorrhagic pulmonary oedema
+5588251000006119	Hemorrhagic pulmonary edema
+3257341000006116	Chronic pulmonary edema
+6611091000006115	African endomyocardial fibrosis
+6611101000006114	Obscure cardiomyopathy of Africa
+6727771000006113	Hypertrophy of septomarginal trabeculation
+6727781000006111	Moderator band cardiomyopathy
+6850191000006114	Dilated cardiomyopathy associated with connective tissue disorder
+6850201000006112	Dilated cardiomyopathy due to taurine deficiency
+6878521000006115	Secondary restrictive cardiomyopathy
+7065291000006119	Ischemic congestive cardiomyopathy
+7274571000006118	Acute systolic heart failure
+7275951000006115	Acute diastolic heart failure
+7306501000006117	Secondary hypertrophic cardiomyopathy
+7306491000006113	Hypertrophic cardiomyopathy associated with another disorder
+7347741000006116	Right ventricular myocardial noncompaction cardiomyopathy
+8037891000006112	Systolic heart failure stage D
+8037901000006111	Systolic heart failure, stage D
+8037911000006114	Systolic heart failure stage C
+8037921000006118	Systolic heart failure, stage C
+8037961000006112	Diastolic heart failure stage C
+8037971000006117	Diastolic heart failure, stage C
+8037941000006113	Diastolic heart failure stage D
+8037951000006110	Diastolic heart failure, stage D
+8021211000006111	Congestive heart failure stage D
+8021221000006115	Congestive heart failure stage C
+7475601000006111	Inflammatory cardiomyopathy
+7475641000006113	Valvular cardiomyopathy
+7475651000006110	Cardiomyopathy due to disorder of heart valve
+7475701000006116	Pacing induced cardiomyopathy
+7475711000006118	Ventricular myocardial noncompaction cardiomyopathy
+7475731000006112	Hypertrophic cardiomyopathy with genetic marker
+7475741000006119	Dilated cardiomyopathy with genetic marker
+7475781000006113	Ischemic dilated cardiomyopathy due to coronary artery disease
+7475771000006110	Ischemic congestive cardiomyopathy due to coronary artery disease
+7475761000006115	Ischaemic congestive cardiomyopathy due to coronary artery disease
+7475891000006117	Hypertrophic mitochondrial cardiomyopathy
+7475881000006115	Mitochondrial cardiomyopathy
+7475901000006118	Histiocytoid mitochondrial cardiomyopathy
+7477861000006117	Right ventricular dysfunction due to disorder of left ventricle
+7499321000006117	Induced termination of pregnancy complicated by cardiac failure
+7500111000006111	Systolic heart failure stage A
+8037931000006115	Systolic heart failure stage B
+7500101000006113	Diastolic heart failure stage A
+8037981000006119	Diastolic heart failure stage B
+7501991000006113	Pulmonary hypertension due to systolic left ventricular dysfunction
+7501981000006110	Pulmonary hypertension due to systolic systemic ventricular dysfunction
+7502001000006110	Pulmonary hypertension due to diastolic systemic ventricular dysfunction
+7502011000006113	Pulmonary hypertension due to diastolic left ventricular dysfunction
+8048051000006114	Acute combined systolic and diastolic heart failure
+8031661000006114	Congestive heart failure due to cardiomyopathy
+7507311000006113	Acute on chronic congestive heart failure
+8048071000006116	Acute on chronic combined systolic and diastolic heart failure
+7525381000006119	Secondary nonischemic congestive cardiomyopathy
+8022711000006111	Congestive heart failure as early postoperative complication
+8001631000006110	Hypertensive heart AND chronic kidney disease with congestive heart failure
+7530491000006119	Primary hypertrophic cardiomyopathy
+7560351000006111	X-linked dilated cardiomyopathy
+7560361000006113	Duchenne muscular dystrophy-associated dilated cardiomyopathy
+7558431000006116	Salih congenital muscular dystrophy
+7558421000006119	Early onset myopathy with fatal cardiomyopathy
+7558441000006114	Salih myopathy
+7573011000006114	Mitral valve regurgitation due to cardiomyopathy
+8212081000006118	History of cardiomyopathy
+7688011000006118	3-methylglutaconic aciduria type 5
+7688021000006114	Dilated cardiomyopathy with ataxia syndrome
+8464271000006117	Cardiomyopathy due to diphtheria infection
+7705171000006112	Cardiomyopathy co-occurrent with human immunodeficiency virus infection
+7735511000006119	ATTRV122I amyloidosis
+7735501000006117	Transthyretin amyloid cardiopathy
+7738921000006114	Familial isolated ARVD (arrhythmogenic right ventricular dysplasia)
+7738931000006112	Familial isolated arrhythmogenic right ventricular cardiomyopathy
+9834061000006116	Systolic heart failure stage C due to ischemic cardiomyopathy
+9834051000006116	Systolic heart failure stage C due to ischaemic cardiomyopathy
+7786951000006111	Najjar syndrome
+7786941000006114	Malouf syndrome
+7786921000006119	Dilated cardiomyopathy with hypergonadotropic hypogonadism syndrome
+7786931000006116	Cardiogenital syndrome
+7791761000006119	Tubular renal disease with cardiomyopathy syndrome
+7806071000006116	Krasnow Qazi syndrome
+7806061000006111	Cardiomyopathy with cataract and hip spine disease syndrome
+9834021000006114	Systolic heart failure stage B due to ischaemic cardiomyopathy
+9834031000006112	Systolic heart failure stage B due to ischemic cardiomyopathy
+9834001000006116	Congestive heart failure stage B due to ischemic cardiomyopathy
+9833991000006112	Congestive heart failure stage B due to ischaemic cardiomyopathy
+9833971000006112	Congestive heart failure stage C due to ischaemic cardiomyopathy
+9833981000006110	Congestive heart failure stage C due to Ischemic cardiomyopathy
+8034201000006113	Cardiomyopathy due to hypertension
+7810851000006118	Cardiac conduction disease with dilated cardiomyopathy and brachydactyly syndrome
+7810841000006115	Atriodigital dysplasia Slovenian type
+7810831000006113	Heart-hand syndrome Slovenian type
+7762771000006116	Congenital cataract, hypertrophic cardiomyopathy, mitochondrial myopathy syndrome
+7762781000006118	Sengers syndrome
+7762881000006111	Glycogen storage disease type 15
+7762871000006113	Glycogen storage disease with severe cardiomyopathy due to glycogenin deficiency
+7762901000006113	Glycogenosis with severe cardiomyopathy due to glycogenin deficiency
+7762891000006114	Glycogen storage disease type XV
+7763221000006118	Congestive heart failure stage B
+7838091000006110	Neonatal cardiac failure due to decreased left ventricular output
+7850181000006112	Sensorineural deafness with dilated cardiomyopathy syndrome
+7857711000006119	Neonatal cardiac failure due to pulmonary overperfusion
+7868601000006115	Cardiomyopathy co-occurrent and due to cirrhosis of liver
+7868591000006111	Cirrhotic cardiomyopathy
+1.19984610000e+16	Assessment using New York Heart Association Classification
+1.21275210000e+16	Cardiomyopathy caused by drug
+1.20491610000e+16	Familial dilated cardiomyopathy with conduction defect due to lamin A/C mutation
+1.34840510000e+16	Cardiomyopathy due to COVID-19
+1.34840610000e+16	Cardiomyopathy due to disease caused by Severe acute respiratory syndrome coronavirus 2
+1.34840410000e+16	Cardiomyopathy due to disease caused by 2019 novel coronavirus
+1.34840710000e+16	Cardiomyopathy due to disease caused by 2019-nCoV (novel coronavirus)
+105536013	Intermittent claudication
+235911000006116	Peripheral vascular disease
+300510018	Other specified peripheral vascular disease
+742481000006118	Ischaemic leg
+357895013	Ischaemic leg ulcer
+350533013	Peripheral ischaemia
+411512011	Claudication
+375462013	Claudication distance
+450665015	Ischaemic toe
+300433019	Extremity artery atheroma
+300550015	Peripheral arterial embolism and thrombosis NOS
+300434013	Extremity artery atheroma NOS
+300607015	Arterial insufficiency
+300511019	Peripheral angiopathic disease EC NOS
+1847121000006114	Peripheral arterial disease
+1.39448410000e+16	Peripheral arterial disease
+451376017	H/O: Peripheral vascular disease procedure
+300963017	[X]Other specified peripheral vascular diseases
+443199013	Ischaemic foot
+1699111000006110	Ischaemic foot
+1715241000006112	Vascular claudication
+2377871000000112	Ischaemic foot pain at rest
+2377911000000114	Ischaemic foot pain when walking
